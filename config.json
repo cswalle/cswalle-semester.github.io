@@ -1,0 +1,10 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/cswalle",
+    "prod_uri": "mysql://root:@localhost/cswalle",
+    "gmail-user":"soumyarangers@gmail.com",
+    "gmail-password":"jjljqttlhswtljum"
+  }
+}
