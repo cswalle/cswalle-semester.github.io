@@ -35,4 +35,4 @@ def semester(iter_slug):
 
     return render_template('semester.html',params=params)
 
-app.run(debug=True)
+app.run(host="0.0.0.0",port=5000,debug=True)
